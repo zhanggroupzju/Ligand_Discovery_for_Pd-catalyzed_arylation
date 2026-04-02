@@ -7,7 +7,7 @@ This code uses an SVR model to predict the enantioselectivity of a palladium-cat
 
 ---
 
-## “SVR Model.py” — User Guide
+## “SVR.py” — User Guide
 
 ### System Requirements
 
@@ -35,7 +35,7 @@ Typical installation time on a regular desktop computer: **~15 minutes**.
 
 ### Usage Instructions
 
-1. Open **“SVR Model.py”** in PyCharm and place it in the same working directory as **train_data.xlsx**, **test_data.xlsx**, and **val_data.xlsx**.
+1. Open **“SVR.py”** in PyCharm and place it in the same working directory as **train_data.xlsx**, **test_data.xlsx**, and **val_data.xlsx**.
 
 2. Install the required dependencies (run in PyCharm Terminal):
 
@@ -55,17 +55,6 @@ Typical installation time on a regular desktop computer: **~15 minutes**.
 
 ---
 
-## “Stratified Train–Test Split.py” — User Guide
 
-### System requirements and installation guide
-
-Same as for **“SVR Model.py”**.
-
-### Usage Instructions
-
-1. Open **’’Stratified Train–Test Split.py”** in PyCharm and place it in the same working directory as **30 exp data.xlsx**.
-2. Install dependencies (installation only needs to be done once per computer).
-3. Run the script.
-   It will output **train_data.xlsx** and **test_data.xlsx**.
 
 
